@@ -10,7 +10,8 @@ A voxel-based game, made using python. This game is specifically for building pu
 
 ------------------------------------------------------------------
 
-## Game Control Guide:-
+## Game Control Guide :-
+### (Normal) In-Game Controls :-
 
 |      Keys      |         Actions                   |    
 |     :---:      |          :---:                    |
@@ -25,8 +26,9 @@ A voxel-based game, made using python. This game is specifically for building pu
 |       4        | To Select **Dirt**   Block        |
 |       g        | Toggle **Player Perspective**     |
 |       r        | Toggle **Render Mode**            |
+|      Esc       | **Pause** the game                |
 
-
+### (Render mode is enabled) In-Game Controls :-
 ------------------------------------------------------------------
 
 ## Support
