@@ -1,5 +1,6 @@
 # Quarry Construct Documentation
 <img src="https://mineimatorhostingssupload.mineimatormatics.repl.co/GrDeZ.png" alt="Logo">
+
 Note: This file would be deleted as soon as the main website is completed (https://spideyspidery.github.io/quarryconstruct.qc/).
 
 ------------------------------------------------------------------
@@ -45,12 +46,11 @@ A voxel-based game, made using python. This game is specifically for building pu
 <img src="https://i.imgur.com/9iTwulK.png" alt="Random World">
 
 ## 4. Build or Break
-### Break Blocks
-https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-bef5-74741b4aa6bd.mp4
-
 ### Build Blocks
 https://user-images.githubusercontent.com/75521850/195370470-5743a72f-295b-400e-844d-f822a75ad6a9.mp4
 
+### Break Blocks
+https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-bef5-74741b4aa6bd.mp4
 ------------------------------------------------------------------
 ## Bugs or Glitches?
 
