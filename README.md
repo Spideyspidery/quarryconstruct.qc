@@ -32,8 +32,15 @@ A voxel-based game, made using python. This game is specifically for building pu
 
 ### (Render mode is enabled) Extra In-Game Controls :-
 ------------------------------------------------------------------
+## Features
 
-## Support
+## 1. Random World Generation
+<img src="https://i.imgur.com/qJk1fyM.png" alt="Random World">
+
+## 2. First and Third Player view
+<img src="https://i.imgur.com/GSPXJFi.png" alt="Random World">
+------------------------------------------------------------------
+## Bugs or Glitches?
 
 [Website](https://spideyspidery.github.io/quarryconstruct.qc/)
 
