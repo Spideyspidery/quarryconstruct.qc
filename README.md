@@ -31,6 +31,7 @@ A voxel-based game, made using python. This game is specifically for building pu
 |  Left click    | **Break**  Blocks                 |
 
 ### (Render mode is enabled) Extra In-Game Controls :-
+"I will add the controls later -__-"
 ------------------------------------------------------------------
 ## Features
 
@@ -53,8 +54,6 @@ https://user-images.githubusercontent.com/75521850/195370470-5743a72f-295b-400e-
 ------------------------------------------------------------------
 ## Bugs or Glitches?
 
-[Website](https://spideyspidery.github.io/quarryconstruct.qc/)
+[Mine-Imator](https://www.mineimatorforums.com/index.php?/profile/80656-spideyspidery/)
 
 [Youtube](https://www.youtube.com/channel/UC8yYfetvXdorcN_I4iV9k2g?sub_confirmation=1&feature=subscribe-embed-click)
-
-Thank You.
