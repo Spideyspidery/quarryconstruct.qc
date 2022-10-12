@@ -39,6 +39,19 @@ A voxel-based game, made using python. This game is specifically for building pu
 
 ## 2. First and Third Player view
 <img src="https://i.imgur.com/GSPXJFi.png" alt="Random World">
+
+## 3. Shadows
+<img src="https://i.imgur.com/9iTwulK.png" alt="Random World">
+
+## 4. Build or Break
+### Break Blocks
+https://user-images.githubusercontent.com/75521850/195367438-f4b7b097-2bb2-4187-a1c8-676dd8f4349e.mp4
+
+### Build Blocks
+
+https://user-images.githubusercontent.com/75521850/195367511-07101c45-20ba-46f9-86e9-d600ec8ae96a.mp4
+
+
 ------------------------------------------------------------------
 ## Bugs or Glitches?
 
