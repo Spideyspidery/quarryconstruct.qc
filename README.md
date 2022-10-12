@@ -45,12 +45,10 @@ A voxel-based game, made using python. This game is specifically for building pu
 
 ## 4. Build or Break
 ### Break Blocks
-https://user-images.githubusercontent.com/75521850/195367438-f4b7b097-2bb2-4187-a1c8-676dd8f4349e.mp4
+https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-bef5-74741b4aa6bd.mp4
 
 ### Build Blocks
-
-https://user-images.githubusercontent.com/75521850/195367511-07101c45-20ba-46f9-86e9-d600ec8ae96a.mp4
-
+https://user-images.githubusercontent.com/75521850/195370470-5743a72f-295b-400e-844d-f822a75ad6a9.mp4
 
 ------------------------------------------------------------------
 ## Bugs or Glitches?
