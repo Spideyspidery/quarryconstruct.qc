@@ -7,7 +7,7 @@
 ------------------------------------------------------------------
 ## About
 A voxel-based game, made using python. This game is specifically for building purposes. 
-### Build Structures and get cinematic shots!
+#### Build Structures and get cinematic shots!
 
 
 ------------------------------------------------------------------
@@ -39,6 +39,9 @@ A voxel-based game, made using python. This game is specifically for building pu
 |       a + Right Click        | To **Move Left**                  |
 |       s + Right Click        | To **Move Backward**              |
 |       d + Right Click        | To **Move Right**                 |
+|       e + Right Click        | To **Go Upward**                  |
+|       q + Right Click        | To **Go Downward**                |
+#### To get a cinematic shot, you will have to follow the classical method... "print screen".
 
 ------------------------------------------------------------------
 ## Features
