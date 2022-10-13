@@ -69,6 +69,10 @@ https://user-images.githubusercontent.com/75521850/195370470-5743a72f-295b-400e-
 https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-bef5-74741b4aa6bd.mp4
 
 ------------------------------------------------------------------
+## Downloads
+[![button](https://i.imgur.com/GXYIUJt.png)](https://github.com/Spideyspidery/quarryconstruct.qc/releases)
+
+------------------------------------------------------------------
 ## Bugs or Glitches?
 
 [Mine-Imator](https://www.mineimatorforums.com/index.php?/profile/80656-spideyspidery/)
