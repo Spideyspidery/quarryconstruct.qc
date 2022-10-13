@@ -1,4 +1,5 @@
 # Quarry Construct Documentation
+<img src="https://i.imgur.com/rilmQyR.png" alt="Logo">
 <img src="https://mineimatorhostingssupload.mineimatormatics.repl.co/GrDeZ.png" alt="Logo">
 
 ### Note: This file would be deleted as soon as the main website is completed (https://spideyspidery.github.io/quarryconstruct.qc/).
