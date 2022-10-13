@@ -88,6 +88,12 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 
 ### Controls given above ⬆️
 
+## 9. Infinite_Fall_into_void = False
+<img src="https://i.imgur.com/DYPt0Q9.png" alt="Random World">
+<img src="https://i.imgur.com/ctYIvqj.png" alt="Random World">
+
+### You don't fall infinitely into the void
+
 ------------------------------------------------------------------
 
 ## Downloads
