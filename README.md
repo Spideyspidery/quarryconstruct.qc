@@ -32,6 +32,8 @@ A voxel-based game, made using python. This game is specifically for building pu
 |      Esc       | **Pause** the game                |
 |  Right click   | **Place**  Blocks                 |
 |  Left click    | **Break**  Blocks                 |
+|    Control     | **Sprint/Run**                    |
+|     Shift      | **Sneak**                    |
 
 ### (Render mode is enabled) Extra In-Game Controls :-
 |      Keys                    |         Actions                   |    
