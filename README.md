@@ -37,7 +37,7 @@ A voxel-based game, made using python. This game is specifically for building pu
 ------------------------------------------------------------------
 ## Features
 
-## 1. Random World Generation
+## 1. World Generation
 <img src="https://i.imgur.com/qJk1fyM.png" alt="Random World">
 
 ## 2. First and Third Player view
