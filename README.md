@@ -6,16 +6,9 @@
 
 ------------------------------------------------------------------
 
-## Content
-- [About](https://github.com/Spideyspidery/quarryconstruct.qc#about)
-- [Game Control Guide](https://github.com/Spideyspidery/quarryconstruct.qc#game-control-guide--)
-  -[(Normal) In-Game Controls :-](https://github.com/Spideyspidery/quarryconstruct.qc#normal-in-game-controls--)
-  -[(Render mode is enabled) Extra In-Game Controls :-](https://github.com/Spideyspidery/quarryconstruct.qc#render-mode-is-enabled-extra-in-game-controls--)
-- [Features](https://github.com/Spideyspidery/quarryconstruct.qc#features)
 ## About
 A voxel-based game, made using python. This game is specifically for building purposes. 
 #### Build Structures and get cinematic shots!
-
 
 ------------------------------------------------------------------
 
