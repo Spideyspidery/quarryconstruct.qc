@@ -77,6 +77,8 @@ https://user-images.githubusercontent.com/75521850/195614263-cf1675c7-617d-4dc0-
 ### Yes, the crosshair changes as the block changes.
 
 ### 7. Render Mode
+https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-8aa8-8cd46ee35686.mp4
+### I know im bad at building :|
 ------------------------------------------------------------------
 ## Downloads
 [![button](https://i.imgur.com/GXYIUJt.png)](https://github.com/Spideyspidery/quarryconstruct.qc/releases)
