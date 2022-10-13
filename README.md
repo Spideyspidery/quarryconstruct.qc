@@ -42,6 +42,7 @@ A voxel-based game, made using python. This game is specifically for building pu
 |       d + Right Click        | To **Move Right**                 |
 |       e + Right Click        | To **Go Upward**                  |
 |       q + Right Click        | To **Go Downward**                |
+|          Left Click          | To **Set your rotation point**    |
 #### To get a cinematic shot, you will have to follow the classical method... "print screen".
 
 ------------------------------------------------------------------
