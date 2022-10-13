@@ -120,8 +120,6 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 ### Do let me know about them!
 #### So that I can fix it in the next update!
 
-[Mine-Imator](https://www.mineimatorforums.com/index.php?/profile/80656-spideyspidery/)
-
-[Github](https://github.com/Spideyspidery)
+[Report on Github](https://github.com/Spideyspidery/quarryconstruct.qc/issues)
 
 [Youtube](https://www.youtube.com/channel/UC8yYfetvXdorcN_I4iV9k2g?sub_confirmation=1&feature=subscribe-embed-click)
