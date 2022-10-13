@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 ## 8. Isometeric View
 <img src="https://i.imgur.com/6pqR4vc.png" alt="Random World">
 
-### Controls giving above ⬆️
+### Controls given above ⬆️
 
 ------------------------------------------------------------------
 
