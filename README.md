@@ -92,7 +92,17 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 <img src="https://i.imgur.com/DYPt0Q9.png" alt="Random World">
 <img src="https://i.imgur.com/ctYIvqj.png" alt="Random World">
 
-### You don't fall infinitely into the void
+### You don't fall infinitely into the void! You get respawned!
+
+## 10. Great GUI (I guess so..)
+### Start Screen
+<img src="https://i.imgur.com/7xOb0Zg.png" alt="Random World">
+
+### Pause Screen
+<img src="https://i.imgur.com/xrLAdVO.png" alt="Random World">
+
+### FPS Counter
+<img src="https://i.imgur.com/6ADZrTL.png" alt="Random World">
 
 ------------------------------------------------------------------
 
@@ -101,6 +111,8 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 
 ------------------------------------------------------------------
 ## Bugs or Glitches?
+### Do let me know about them!
+#### So that I can fix it in the next update!
 
 [Mine-Imator](https://www.mineimatorforums.com/index.php?/profile/80656-spideyspidery/)
 
