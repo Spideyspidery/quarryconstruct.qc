@@ -70,20 +70,26 @@ https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-
 
 ## 5. Different Block Textures
 <img src="https://i.imgur.com/OM9amL1.png" alt="Random World">
+
 ### Note: More blocks world be added in the next update
 
 ## 6. Block Choosen Detection
 https://user-images.githubusercontent.com/75521850/195614263-cf1675c7-617d-4dc0-8831-30a60c2c6ef0.mp4
+
 ### Yes, the crosshair changes as the block changes.
 
 ## 7. Render Mode
 https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-8aa8-8cd46ee35686.mp4
+
 ### I know I'm bad at building :|
 
 ## 8. Isometeric View
 <img src="https://i.imgur.com/6pqR4vc.png" alt="Random World">
+
 ### Controls giving above ⬆️
+
 ------------------------------------------------------------------
+
 ## Downloads
 [![button](https://i.imgur.com/GXYIUJt.png)](https://github.com/Spideyspidery/quarryconstruct.qc/releases)
 
