@@ -21,7 +21,7 @@ A voxel-based game, made using python. This game is specifically for building pu
 |       a        | To **Move Left**                  |
 |       s        | To **Move Backward**              |
 |       d        | To **Move Right**                 |
-|    'Space'     | To **Jump**                       |
+|     Space      | To **Jump**                       |
 |       1        | To Select **Grass**   Block       |
 |       2        | To Select **Stone**   Block       |
 |       3        | To Select **Brick**   Block       |
