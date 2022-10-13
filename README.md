@@ -115,6 +115,7 @@ https://user-images.githubusercontent.com/75521850/195617769-2f10e09b-98c2-46cd-
 [![button](https://i.imgur.com/GXYIUJt.png)](https://github.com/Spideyspidery/quarryconstruct.qc/releases)
 
 ------------------------------------------------------------------
+
 ## Bugs or Glitches?
 ### Do let me know about them!
 #### So that I can fix it in the next update!
