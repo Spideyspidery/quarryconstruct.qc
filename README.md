@@ -33,12 +33,12 @@ A voxel-based game, made using python. This game is specifically for building pu
 |  Left click    | **Break**  Blocks                 |
 
 ### (Render mode is enabled) Extra In-Game Controls :-
-|      Keys      |         Actions                   |    
-|     :---:      |          :---:                    |
-|       w        | To **Move Forward**               |
-|       a        | To **Move Left**                  |
-|       s        | To **Move Backward**              |
-|       d        | To **Move Right**                 |
+|      Keys                    |         Actions                   |    
+|     :---:                    |          :---:                    |
+|       w + Right Click        | To **Move Forward**               |
+|       a + Right Click        | To **Move Left**                  |
+|       s + Right Click        | To **Move Backward**              |
+|       d + Right Click        | To **Move Right**                 |
 
 ------------------------------------------------------------------
 ## Features
