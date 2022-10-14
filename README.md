@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/75521850/195370485-41bf2116-8558-40ee-
 
 ### Note: More blocks world be added in the next update
 
-## 6. Block Choosen Detection
+## 6. Block Chosen Detection
 https://user-images.githubusercontent.com/75521850/195614263-cf1675c7-617d-4dc0-8831-30a60c2c6ef0.mp4
 
 ### Yes, the crosshair changes as the block changes.
